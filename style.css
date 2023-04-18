@@ -1,0 +1,36 @@
+p {
+  color: red;
+}
+h1 {
+  color: blue;
+}
+img {
+  height: 300px;
+}
+
+input {
+  border-radius: 50%;
+}
+/* button:first-child {
+  color: red;
+} */
+
+.firstButton {
+  color: pink;
+}
+
+.thirdButton {
+  height: 30px;
+}
+
+.lastButton {
+  height: 5rem;
+  padding: 20px;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#trulyLastButton {
+  color: cornflowerblue;
+}
